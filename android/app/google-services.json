@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968340152108",
+    "firebase_url": "https://typapp-2db54.firebaseio.com",
+    "project_id": "typapp-2db54",
+    "storage_bucket": "typapp-2db54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968340152108:android:f641a4e58278b9cdb25689",
+        "android_client_info": {
+          "package_name": "com.example.typapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968340152108-aakj6luf1ki601tgack8vgkmonaefh1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIZ1I-gmezLtNxbvGeScsWHQ9gcijTvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968340152108-aakj6luf1ki601tgack8vgkmonaefh1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
